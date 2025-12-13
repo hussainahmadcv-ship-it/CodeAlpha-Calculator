@@ -13,7 +13,7 @@ HTML5 for the bones of the app
 CSS3 to make it look nice (spent way too much time tweaking colors, not gonna lie)
 Vanilla JavaScript for all the calculator magic – no frameworks needed!
 📸 Preview
-![Calculator Screenshot](assets/images/screenshot.png)
+![Calculator Screenshot](assets/images/calculator.png)
 💭 Why I Made This
 Honestly? Sometimes you just need to go back to basics. This project reminded me how much you can accomplish with just the core web technologies. Plus, it's always satisfying to build something that actually works and looks decent.
 Feel free to poke around the code – and if you spot something that could be better, I'm all ears!
